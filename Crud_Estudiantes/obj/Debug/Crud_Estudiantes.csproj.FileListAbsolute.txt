@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\bin\Debug\Crud_Estudiantes.exe.config
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\bin\Debug\Crud_Estudiantes.exe
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\bin\Debug\Crud_Estudiantes.pdb
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\obj\Debug\Crud_Estudiantes.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\obj\Debug\Crud_Estudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\obj\Debug\Crud_Estudiantes.Form1.resources
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\obj\Debug\Crud_Estudiantes.Properties.Resources.resources
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\obj\Debug\Crud_Estudiantes.csproj.GenerateResource.cache
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\obj\Debug\Crud_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\obj\Debug\Crud_Estudiantes.exe
+C:\Users\andre\Documents\Codes_Visual_Code\Crud_Estudiantes\Crud_Estudiantes\obj\Debug\Crud_Estudiantes.pdb
